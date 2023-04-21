@@ -1,6 +1,6 @@
 # DeLoGics 
 
-# Project WorkFlow
+# Project WorkFlow : 
 
 1. Manufacturer registers the product on the mint page of the website by entering the details of the product (Title, Description, Image and Video).
 2. The Video is uploaded using the livepeer and the video data is combined with all other product inormation and uploaded on IPFS network.
