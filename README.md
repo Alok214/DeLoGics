@@ -1,4 +1,5 @@
 # DeLoGics 
+
 # Project WorkFlow
 
 1. Manufacturer registers the product on the mint page of the website by entering the details of the product (Title, Description, Image and Video).
@@ -9,7 +10,11 @@
 6. At every level of the supply chain, whenever the product is transffered from one person to another, current owner needs to scan the QR code and trnsfer the nft to another person. In this way, all the past transactions about the product are recorded along with the nft information making it fully transparent in nature.
 7. We can use the "Secure QR", which is a non-copieble QR code i.e it losts it data on reprinting/photocopying so that to avoid frauds like fake products selling, etc.  
    
+# Quick Start for frontend
+📄 Clone or fork this repo
 
+```sh
+https://github.com/Alok214/DeLoGics.git
 ```
 
 💿 Install all dependencies:
@@ -26,6 +31,12 @@ npm run dev
 
 # Quick Start for Backend
 
+📄 Clone or fork this repo :
+`Clone or fork this repo`:
+
+```sh
+https://github.com/Alok214/DeLoGics.git
+```
 
 💿 Install all dependencies:
 
@@ -42,7 +53,7 @@ npm run dev
 
 # What this App uses
 
-### This App has four main parts 
+### This App has three main parts 
 - [`Frontend`](#Frontend)
 - [`Backend`](#Backend)
 - [`Blockchain`](#Blockchain)
