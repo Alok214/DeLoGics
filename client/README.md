@@ -1,19 +1,4 @@
-# Problem
-
-Supply chain management is a crucial aspect of business operations, as it helps companies
-to track the movement of goods and services from raw material sourcing to the end
-customer. However, the current supply chain management systems are fragmented, lack
-transparency, and are vulnerable to fraud and counterfeiting, leading to inefficiencies and a
-loss of trust between different stakeholders.
-
-# Solution
-
-We are using blockchain-based decentralised supply chain management system to
-provide a secure, transparent, and tamper-proof record of transactions and traceability of
-products throughout the supply chain. It aims to improve supply chain efficiency, reduce
-costs, enhance transparency, increase trust among supply chain partners, and prevent
-counterfeits and frauds. The decentralised nature of the system leads to improved collaboration, increased transparency, and reduced
-operational costs for all participants.
+# DeLoGics 
 
 # Project WorkFlow
 
@@ -26,11 +11,10 @@ operational costs for all participants.
 7. We can use the "Secure QR", which is a non-copieble QR code i.e it losts it data on reprinting/photocopying so that to avoid frauds like fake products selling, etc.  
    
 # Quick Start for frontend
-
-📄 Clone or fork this repo :`https://github.com/Prasang023/EthForAll_EthermionsV2.git`:
+📄 Clone or fork this repo
 
 ```sh
-git clone https://github.com/Prasang023/EthForAll_EthermionsV2.git
+https://github.com/Alok214/DeLoGics.git
 ```
 
 💿 Install all dependencies:
@@ -48,10 +32,10 @@ npm run dev
 # Quick Start for Backend
 
 📄 Clone or fork this repo :
-`https://github.com/Prasang023/EthForAll_EthermionsV2.git`:
+`Clone or fork this repo`:
 
 ```sh
-git clone https://github.com/Prasang023/EthForAll_EthermionsV2.git
+https://github.com/Alok214/DeLoGics.git
 ```
 
 💿 Install all dependencies:
@@ -69,7 +53,7 @@ npm run dev
 
 # What this App uses
 
-### This App has four main parts 
+### This App has three main parts 
 - [`Frontend`](#Frontend)
 - [`Backend`](#Backend)
 - [`Blockchain`](#Blockchain)
@@ -114,13 +98,3 @@ We are using Polygon ID for authenticating and while we are trnsfering the nfts 
 The best L-2 Solution outthere. Polygon was our first choice to deploy the smart contract wherein the contracts were directy deployed to the testnet for testing and no local host testing took place. Here's the Contract address of the contract's used here:
 1. NFT Contract - 0xf3E09b01F9678A1562b184Bb4512E163A387B4Cd
 2. Products Contract - 0x573e31dF36aCb997aAC134d26Ba69d8C09b6C995
-
-# Where is this App deployed
-
-`Frontend` 
-- The frontend of this app is deployed on vercel :
-https://eth-for-all-ethermions-v2-alpha.vercel.app/
-
-
-`Backend`
-- The Backend of this app is deployed on https://ethforall.onrender.com/
