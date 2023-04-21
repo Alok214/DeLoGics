@@ -32,7 +32,6 @@ npm run dev
 # Quick Start for Backend
 
 📄 Clone or fork this repo :
-`Clone or fork this repo`:
 
 ```sh
 https://github.com/Alok214/DeLoGics.git
@@ -63,6 +62,8 @@ npm run dev
 
 We are using Next.JS for rendering the frontend of the project. The frontend is integrated with both the backend and blockchain.
 We are using Redux-thunk along in javascript to make our webapp modular and easy to use. 
+
+<a href='https://www.linkpicture.com/view.php?img=LPic644230cfa54642011873585'><img src='https://www.linkpicture.com/q/delogi.png' type='image'></a>
 
 # Backend
 
