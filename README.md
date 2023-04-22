@@ -49,7 +49,11 @@ npm install
 ```sh
 npm run dev
 ```
+# Deployed link
 
+```sh
+https://delogics.netlify.app/
+```
 # What this App uses
 
 ### This App has three main parts 
@@ -88,14 +92,3 @@ The Contract Address are:
 1. nft contract : [0xf3E09b01F9678A1562b184Bb4512E163A387B4Cd](https://mumbai.polygonscan.com/address/0xf3E09b01F9678A1562b184Bb4512E163A387B4Cd#code)
 1. Products Registry: [0x573e31dF36aCb997aAC134d26Ba69d8C09b6C995](https://mumbai.polygonscan.com/address/0x573e31dF36aCb997aAC134d26Ba69d8C09b6C995#code)
 
-# Sponsors Used for making App
-## Livepeer : 
-We are using LivePeer for uploading videos of the product at every level of the supply chain and store the metaData about the video on IPFS. It is displayed on the product details page using Livepeer Player every time user scans the QR code attached to the product. 
-## Arcana :
-We are using Arcana integrated with rainbowKit for social media authentication and authentication via email address. 
-## Polygon ID : 
-We are using Polygon ID for authenticating and while we are trnsfering the nfts on the polygon chain.
-## Polygon : 
-The best L-2 Solution outthere. Polygon was our first choice to deploy the smart contract wherein the contracts were directy deployed to the testnet for testing and no local host testing took place. Here's the Contract address of the contract's used here:
-1. NFT Contract - 0xf3E09b01F9678A1562b184Bb4512E163A387B4Cd
-2. Products Contract - 0x573e31dF36aCb997aAC134d26Ba69d8C09b6C995
