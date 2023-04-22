@@ -1,4 +1,4 @@
-# DeLoGics 
+# DeLoGics - Decentralized Logistics System
 
 # Project WorkFlow : 
 
@@ -20,7 +20,7 @@ https://github.com/Alok214/DeLoGics.git
 💿 Install all dependencies:
 
 ```sh
-npm install
+npm install or npm i
 ```
 
 🚴‍♂️ Run your App:
@@ -41,7 +41,7 @@ https://github.com/Alok214/DeLoGics.git
 
 ```sh
 cd server
-npm install
+npm install or npm i
 ```
 
 🚴‍♂️ Run your App:
